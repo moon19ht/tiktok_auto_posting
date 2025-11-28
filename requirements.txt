@@ -1,0 +1,29 @@
+# TikTok Auto Posting - Dependencies
+# Python 3.8+ required
+
+# Selenium for browser automation
+selenium>=4.15.0
+
+# WebDriver Manager for automatic ChromeDriver management
+webdriver-manager>=4.0.1
+
+# Environment variables management
+python-dotenv>=1.0.0
+
+# HTTP requests (for API interactions if needed)
+requests>=2.31.0
+
+# File handling utilities
+pathlib>=1.0.1
+
+# Logging utilities
+colorlog>=6.7.0
+
+# Time utilities
+schedule>=1.2.1
+
+# Video file handling
+moviepy>=1.0.3
+
+# Optional: For better terminal output
+rich>=13.7.0
